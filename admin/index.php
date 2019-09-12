@@ -109,21 +109,21 @@ isset($_SESSION['tipoCargo']);
                            
                         </div>
 
-                        <li class="nav-item">
+                 <!--       <li class="nav-item">
                         <a class="nav-link page-scroll" href="#pricing">Post Cosecha</a>
-                    </li>
+                    </li>-->
 
 
-                     <li class="nav-item">
+                 <!--      <li class="nav-item">
                         <a class="nav-link page-scroll" href="#pricing">Comercial</a>
-                    </li> 
+                    </li> -->
 
                     
 
                 </ul>
-                <form class="form-inline">
+              <!--  <form class="form-inline">
                     <a href="#signup" class="btn btn-outline-secondary btn-navbar page-scroll">Balances</a>
-                </form>
+                </form>-->
             </div>
         </nav>
 
