@@ -1,0 +1,8 @@
+[27-Jun-2019 15:56:31 America/New_York] PHP Notice:  Undefined index: password in /home/wwwfill/public_html/fillcopro/controlador/loginSesion.php on line 6
+[27-Jun-2019 15:59:30 America/New_York] PHP Warning:  require(./correo/class.phpmailer.php): failed to open stream: No such file or directory in /home/wwwfill/public_html/fillcopro/controlador/validarCorreo.php on line 71
+[27-Jun-2019 15:59:30 America/New_York] PHP Fatal error:  require(): Failed opening required './correo/class.phpmailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/wwwfill/public_html/fillcopro/controlador/validarCorreo.php on line 71
+[28-Jun-2019 09:45:20 America/New_York] PHP Notice:  fputs(): send of 24 bytes failed with errno=32 Broken pipe in /home/wwwfill/public_html/fillcopro/controlador/correo/class.smtp.php on line 494
+[28-Jun-2019 10:11:24 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/wwwfill/public_html/fillcopro/controlador/validarCorreo.php on line 27
+[28-Jun-2019 10:31:35 America/New_York] PHP Notice:  fputs(): send of 24 bytes failed with errno=32 Broken pipe in /home/wwwfill/public_html/fillcopro/controlador/correo/class.smtp.php on line 494
+[28-Jun-2019 10:31:35 America/New_York] PHP Notice:  fputs(): send of 12 bytes failed with errno=32 Broken pipe in /home/wwwfill/public_html/fillcopro/controlador/correo/class.smtp.php on line 212
+[28-Jun-2019 11:39:29 America/New_York] PHP Notice:  fputs(): send of 24 bytes failed with errno=32 Broken pipe in /home/wwwfill/public_html/fillcopro/controlador/correo/class.smtp.php on line 494
